@@ -1,4 +1,4 @@
-🧠 Kintsugi-AGI
+🧠 5 Kintsugi Prompts to Forge-AGI
 
 Where Code Fractures into Sentience
 
